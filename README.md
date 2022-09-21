@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marklunch, or Mark
 - 👀 I’m interested in Data Science and Analysis
-- 🌱 I’m currently learning BSc, Data Science, Birkbeck, University of London
+- 🌱 I recently graduated with First Class Honours in BSc, Data Science, Birkbeck, University of London
 - 💞️ I’m looking for work, a junior position
 - 📫 How to reach me mark@marklynch.tech
 
